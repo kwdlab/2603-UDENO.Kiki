@@ -1,5 +1,8 @@
 
-# quicbench（HTTP/3/QUIC ベンチマークツール実装 / Go）
+# 2603-UDENO.Kiki
+
+##2026年3月卒業　腕野季記
+
 
 ## 概要 (Overview)
 本リポジトリは、HTTP/3(QUIC) ベンチマークツール（`quicbench`）の実装・利用手順をまとめたものです。  
