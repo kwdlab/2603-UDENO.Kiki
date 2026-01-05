@@ -25,4 +25,9 @@ HTTP/1.1・HTTP/2・HTTP/3 の各プロトコルで同条件のリクエスト�
 ### 言語
 - Go言語（`h3bench`）
 
+- ## ライセンス (License)
+Licensed under the New BSD License .
+
+
+
 
